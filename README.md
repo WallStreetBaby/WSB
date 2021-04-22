@@ -12,6 +12,32 @@ Who are developers behind the project:
 
 The team was formed after some discussions about creating a WSB themed token, primarily as a meme to start with, but as discussions progressed, the idea for WSB token grew. The team are mostly active traders.
 
-Why is there no Roadmap, and Whitepaper?
+Roadmap
 
-A whitepaper is not yet required. The future of the token is decided by the community, not by the developers.
+Here's what we've been up to and what we have planned. The future of the token is decided by the community, not by the developers.
+
+Q4 2020
+Start working on the project
+
+Q1 2021
+Launch the $WSB token
+
+Q1 2021
+Create and release unique NFTs
+
+Q2 2021
+Explore listing the $WSB coin on various exchanges
+
+Q2 2021
+Crypto Trading course for HODLers
+Community Discord channel
+Technical analysis of crypto assets
+Risk management
+Diversification
+Token research
+
+Q2 2021
+Implementing community governance
+Exploring new ideas
+New paths for the project
+Power to the people !!!
